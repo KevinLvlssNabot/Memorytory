@@ -1,1 +1,10 @@
-var
+var fond;
+var corneille; var bernie; var corneille2;
+var eric; var ramzy;
+var rick; var morty;
+var bob; var patrick;
+var petain; var deGaulle;
+var robert; var jack;
+var cursors; var space;
+var coffreX; var coffreY;
+var carte2;
